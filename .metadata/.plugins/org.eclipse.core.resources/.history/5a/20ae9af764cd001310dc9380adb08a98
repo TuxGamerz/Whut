@@ -1,0 +1,18 @@
+package com.stronghearttarot.game;
+
+public class Game {
+	
+	public static void main(String[] args)
+	{
+	}
+	
+	public void initDisplay()
+	{
+		
+	}
+	
+	public void initGL()
+	{
+	}
+
+}
